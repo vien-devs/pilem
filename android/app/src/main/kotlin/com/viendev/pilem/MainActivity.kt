@@ -1,0 +1,6 @@
+package com.viendev.pilem
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
